@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arijitbhowal/Portfolio-1.0/static/css/main.4152c3d3.css",
+    "main.js": "/arijitbhowal/Portfolio-1.0/static/js/main.ceca36ad.js",
+    "index.html": "/arijitbhowal/Portfolio-1.0/index.html",
+    "main.4152c3d3.css.map": "/arijitbhowal/Portfolio-1.0/static/css/main.4152c3d3.css.map",
+    "main.ceca36ad.js.map": "/arijitbhowal/Portfolio-1.0/static/js/main.ceca36ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4152c3d3.css",
+    "static/js/main.ceca36ad.js"
+  ]
+}
