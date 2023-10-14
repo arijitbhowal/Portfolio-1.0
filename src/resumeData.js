@@ -6,22 +6,22 @@ let resumeData = {
   phone: "+91 8822615645",
   roleDescription:
     "I find joy in the colorful world of frontend development. I'm a tech enthusiast who thrives on unraveling the mysteries of new technologies. In my spare moments, you might find me crafting engaging tech articles or immersing myself in the world of games for some well-deserved relaxation.",
-  socialLinks: [
-    {
-      name: "linkedin",
-      url: "www.linkedin.com/in/arijit-bhowal-167295217",
-      className: "fa fa-linkedin",
-    },
-    {
-      name: "github",
-      url: "https://github.com/arijitbhowal",
-      className: "fa fa-github",
-    },
-    {
-      name: "instagram",
-      url: "https://www.instagram.com/arijitxx_x/?igshid=NzZlODBkYWE4Ng%3D%3D",
-      className: "fa fa-instagram",
-    },
+socialLinks: [
+  {
+    name: "linkedin",
+    url: "https://www.linkedin.com/in/arijit-bhowal-167295217",
+    className: "fa fa-linkedin",
+  },
+  {
+    name: "github",
+    url: "https://github.com/arijitbhowal",
+    className: "fa fa-github",
+  },
+  {
+    name: "instagram",
+    url: "https://www.instagram.com/arijitxx_x/?igshid=NzZlODBkYWE4Ng%3D%3D",
+    className: "fa fa-instagram",
+  },
   ],
   aboutme:
     "I am currently a pre-final year student at Vellore Institute of Technology, Chennai and pursuing my B.Tech degree in Computer Science and Engineering. I am a Frontend Web Developer, venturing deeper into the intricate world of Artificial Intelligence . I'm particularly intrigued by Computer Vision and Reinforcement Learning, where I aim to unravel the mysteries of intelligent systems.",
